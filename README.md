@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-7081&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-7081" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-7081" alt="abhishek-7081" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-7081" alt="abhishek-7081" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://abhishektripathiportfolio.vercel.app/](https://abhishektripathiportfolio.vercel.app/)
 
-- 💬 Ask me about **react , UI ,**
+- 💬 Ask me about **Frontend , Backend , UI **
 
 - 📫 How to reach me **abhi1golu@gmail.com**
 
