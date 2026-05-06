@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-7081" alt="abhishek-7081" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://abhishektripathiportfolio.vercel.app/](https://abhishektripathiportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Abhishek Portfolio](https://abhiport.vercel.app/))
 
-- 💬 Ask me about **Frontend , Backend , UI **
+- 💬 Ask me about **Frontend , Backend , UI**
 
 - 📫 How to reach me **abhi1golu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HvODylLdkVOJNnUIoOyiJiW68_15_0g2/view?usp=sharing](https://drive.google.com/file/d/1HvODylLdkVOJNnUIoOyiJiW68_15_0g2/view?usp=sharing)
+- 📄 Know about my experiences [Abhishek-Resume](https://drive.google.com/file/d/1DfqAV8AtQ6MuX608wQCxn4i_HMGxmy2z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
